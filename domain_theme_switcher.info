@@ -1,7 +1,7 @@
 name = Domain theme switcher
+
 description = "Theme switcher (use domain name)"
 core = "7.x"
 version = "7.x-1.0"
-package = custom
 
-;datestamp = ""
+package = Custom
